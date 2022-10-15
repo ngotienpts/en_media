@@ -1,0 +1,12 @@
+@media only screen and (max-width: 768px) {
+  .kw-popup,
+  .kw-popup-overlay {
+    display: none !important;
+  }
+}
+@media only screen and (min-width: 1100px) {
+  .full-header.sticky {
+    position: sticky;
+    top: 0;
+  }
+}
